@@ -27,6 +27,7 @@ See final example app [here](https://react-and-morty-eight.vercel.app/)
 
 - next with useState & useEffect hooks
 - styled-components
+- fetching with SWR
 - ES6 Features
 - fetching data from an external API
 - storing data in localStorage
@@ -89,6 +90,7 @@ If you working on an issue, pls move the issue from the todo tab in the project 
 - [useState](https://reactwithhooks.netlify.app/docs/hooks-state.html)
 - [useEffect](https://reactwithhooks.netlify.app/docs/hooks-effect.html)
 - [nextjs docs](https://nextjs.org/docs/getting-started)
+- [SWR docs](https://swr.vercel.app/docs/getting-started)
 
 HAVE FUN
 
