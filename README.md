@@ -1,4 +1,4 @@
-# React and Morty
+# Next and Morty
 
 > "The only way to learn a new programming language is by writing programs in it."  
 > -- <cite>Dennis Ritchie</cite>
@@ -7,9 +7,9 @@
 
 ![repo-logo](assets/react-and-morty.jpg)
 
-This repo contains the Rick and Morty in React exercise. Use this as a template.
+This repo contains the Rick and Morty in Next.js exercise. Use this as a template.
 
-We will create a React app to render characters from the Rick and Morty API. You will be able to save characters as favorites, see detailed information on a separate page and you can get random characters.
+We will create a Next app to render characters from the Rick and Morty API. You will be able to save characters as favorites, see detailed information on a separate page and you can get random characters.
 
 See a scribble for a simple overview:
 ![app](assets/react-and-morty-app.png)
@@ -19,15 +19,14 @@ See final example app [here](https://react-and-morty-eight.vercel.app/)
 
 - git & GitHub workflow
 - using [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and a [board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) to organize tasks
-- learn to build a multipage react application
+- learn to build a multipage next application
 - how to break down a big problem in solvable smaller problems
 - coding, coding, coding
 
 ### You will use the following stack
 
-- react with useState & useEffect hooks
+- next with useState & useEffect hooks
 - styled-components
-- react-router
 - ES6 Features
 - fetching data from an external API
 - storing data in localStorage
@@ -57,7 +56,7 @@ If you working on an issue, pls move the issue from the todo tab in the project 
   ![board1](assets/ram-board.png)
 - give the project a meaningful name, like `React and Morty`
   ![board1](assets/ram-rename-project.png)
-- go to your React and Morty repository and add the project
+- go to your Next and Morty repository and add the project
   ![board1](assets/ram-add-project.png)
 - go now to the `Actions` tab
   ![board1](assets/action.png)
@@ -89,7 +88,7 @@ If you working on an issue, pls move the issue from the todo tab in the project 
 - [Rick and Morty API Docs](https://rickandmortyapi.com/documentation/#rest)
 - [useState](https://reactwithhooks.netlify.app/docs/hooks-state.html)
 - [useEffect](https://reactwithhooks.netlify.app/docs/hooks-effect.html)
-- [react-router](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
+- [nextjs docs](https://nextjs.org/docs/getting-started)
 
 HAVE FUN
 
