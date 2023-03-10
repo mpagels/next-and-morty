@@ -14,18 +14,18 @@ jobs:
           body: |
             # Description
 
-            The repo is empty. (Except the readme ;-) ). We need to create a React app in it and some other stuff.
+            The repo is empty. (Except the readme ;-) ). We need to create a Next app in it and some other stuff.
 
             ## ToDos
             - [ ] move this issue in the board from `ToDo` tab into `In Progress` tab 
-            - [ ] install React  
+            - [ ] install Next  
 
             inside the repo use
             ```shell
             npm install
             ```
             - [ ] create a new branch locally, call it maybe `feat/setup`
-            - [ ] remove template code from the React project
+            - [ ] remove template code from the Next project
             - [ ] create or copy from another project a  `.prettierrc` file
             - [ ] commit everything
             - [ ] push everything to the remote repo on GitHub
@@ -44,7 +44,7 @@ jobs:
           body: |
             # Description
             After setting everything up, it is time to write the first code.
-            We will create the first page with simple html markup in our `App.js`
+            We will create the first page with simple html markup in our `pages/index.js`
 
             <img width="240" alt="Bildschirmfoto 2022-04-02 um 19 25 49" src="https://user-images.githubusercontent.com/54703643/161394296-3f9d67ff-095c-42c3-8f10-7cf554c96b9e.png">
 
@@ -147,8 +147,7 @@ jobs:
 
             - [ ] move this issue in the board from `ToDo` tab into `In Progress` tab
             - [ ] create a new branch locally
-            - [ ] install react-router
-            - [ ] create character page (you will need to create dynamic routes. Check out [the react router useParams docs](https://reactrouter.com/en/main/hooks/use-params))
+            - [ ] create character page (you will need to create dynamic routes. Check out [the next dynamic-routes docs](https://nextjs.org/docs/routing/dynamic-routes))
             - [ ] create a detailed character card which shows more info like species, gender, status (check the API for more content)
             - [ ] create logic, when clicking the „show more“ button on the `start page`, the user is moved to the detailed page and the character is loaded with more details
             - [ ] commit everything
